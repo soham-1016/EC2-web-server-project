@@ -25,4 +25,11 @@ http://13.60.191.159
 
 ## 📸 Screenshots
 
-(Add screenshots here later)
+### EC2 Instance
+![EC2](ec2-instance.png)
+
+### Nginx Running
+![Nginx](nginx-running.png)
+
+### Website Output
+![Website](website-output.png)
